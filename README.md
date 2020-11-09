@@ -3,7 +3,7 @@
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
 [![licensebuttons by-nd](https://licensebuttons.net/l/by-nd/3.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0)
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+
 
 ### Hello World 🌍 I'm [Muhammed Faheem!](https://www.iamfaheem.tk) 👋
 
@@ -44,3 +44,4 @@ I am mobile app,games,and web developer from India <img width="21px" src="/asset
 <br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem-cmd&layout=compact&theme=algolia"/>
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
