@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 ![Profile views](https://gpvc.arturio.dev/Naereen)
 [![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
 [![licensebuttons by-nd](https://licensebuttons.net/l/by-nd/3.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0)
@@ -39,7 +39,7 @@ I am mobile app,games,and web developer from India <img width="21px" src="/asset
 
 <br/>
 
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+
 
 <br/>
 
