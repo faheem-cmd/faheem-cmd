@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/faheem.kattekaden/">
   <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/facebook.svg"/>
 </a>
-<a href="https://iamfaheem.tk">
+<a href="https://www.iamfaheem.tk">
   <img align="left" alt="Abdul Aziz Ahwan's Discord" width="24px" src="/assets/discord.svg"/>
 </a>
 
@@ -18,7 +18,7 @@ I am mobile app,games,and web developer from India <img width="21px" src="/asset
 - 👨‍💻 I’m currently working on my freelance projects
 - 📚 I’m currently learning FrontEnd Framework & Flutter and native
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulazizahwan&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=faheem-cmd&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
 <br/>
 
 **Languages and Tools:**
@@ -36,4 +36,4 @@ I am mobile app,games,and web developer from India <img width="21px" src="/asset
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizahwan&layout=compact&theme=algolia"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem-cmd&layout=compact&theme=algolia"/>
