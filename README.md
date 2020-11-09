@@ -1,4 +1,4 @@
-### Hello World 🌍 I'm [Muhammed Faheem!](https://iamfaheem.tk) 👋
+### Hello World 🌍 I'm [Muhammed Faheem!](https://www.iamfaheem.tk) 👋
 
 <a href="https://www.instagram.com/fahe_07/">
   <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/instagram.svg"/>
