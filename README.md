@@ -39,9 +39,9 @@ I am mobile app,games,and web developer from India <img width="21px" src="/asset
 
 <br/>
 
-
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
 
 <br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem-cmd&layout=compact&theme=algolia"/>
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
+
