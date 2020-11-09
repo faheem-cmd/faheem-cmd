@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 ### Hello World 🌍 I'm [Muhammed Faheem!](https://www.iamfaheem.tk) 👋
 
 <a href="https://www.instagram.com/fahe_07/">
