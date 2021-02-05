@@ -20,7 +20,7 @@
 <br />
 <br />
 
-I am mobile app,games,and web developer from India <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
+I am mobile app,games,and web developer from India <img width="21px" src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-abstract-indian-flag-theme-background-design-flag-of-india-png-image_3541504.jpg" style="margin-left:4px"/>
 
 - 👨‍💻 I’m currently working on my freelance projects
 - 📚 I’m currently learning python django framework
