@@ -23,7 +23,7 @@
 I am mobile app,games,and web developer from India <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
 - 👨‍💻 I’m currently working on my freelance projects
-- 📚 I’m currently learning FrontEnd Framework & Flutter and node js
+- 📚 I’m currently learning python django framework
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=faheem-cmd&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
 <br/>
