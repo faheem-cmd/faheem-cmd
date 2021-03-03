@@ -24,7 +24,7 @@ I am mobile app,games,and web developer from India <img width="21px" src="https:
 
 - 👨‍💻 I’m currently working on my freelance projects
 - 📚 I’m currently learning python django framework & React js
-- 📚funny thing ,I love bugs & errors👨‍
+- 📚funny thing ,I love bugs & errors👨‍ :)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=faheem-cmd&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
 <br/>
 
