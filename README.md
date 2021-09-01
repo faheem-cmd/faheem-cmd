@@ -20,10 +20,11 @@
 <br />
 <br />
 
- developer from India <img width="21px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" style="margin-left:4px"/>
+ software developer from India <img width="21px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" style="margin-left:4px"/>
 
 - 
-- 📚 I’m currently learning React-native 
+- 📚 React-native 
+- 📚 Python-django
 - 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=faheem-cmd&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
 <br/>
