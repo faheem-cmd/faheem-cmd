@@ -5,7 +5,7 @@
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/faheem-cmd/)
 
 
-### Hello World 🌍 I'm [Muhammed Faheem!](https://www.iamfaheem.tk) 👋
+### Hello World 🌍 I'm [Muhammed Faheem!] 👋
 
 <a href="https://www.instagram.com/fahe_07/">
   <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/instagram.svg"/>
@@ -22,9 +22,9 @@
 
 I am mobile app,games,and web developer from India <img width="21px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" style="margin-left:4px"/>
 
-- 👨‍💻 I’m currently working on my freelance projects
-- 📚 I’m currently learning React-native & Django framework
-- 📚funny thing ,I love bugs & errors👨‍ :)
+- 
+- 📚 I’m currently learning React-native 
+- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=faheem-cmd&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
 <br/>
 
