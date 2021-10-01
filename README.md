@@ -1,6 +1,6 @@
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/faheem-cmd/badges)
 ![Profile views](https://gpvc.arturio.dev/faheem-cmd)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/faheem-cmd/badges/)
+
 
 
 
