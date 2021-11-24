@@ -4,7 +4,7 @@
 
 
 
-### Hello  🌍 I'm Muhammed Faheem 👋
+### Hello  🌍 I'm Muhammed Faheem.k 👋
 
 <a href="https://www.instagram.com/fahe_07/">
   <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/instagram.svg"/>
