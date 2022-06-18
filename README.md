@@ -25,6 +25,7 @@
 - 📚 React-native 
 - 📚 Python-django
 - 📚 REST API
+- Currently learning Node_JS
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=faheem-cmd&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
 <br/>
 
