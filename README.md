@@ -24,7 +24,6 @@
 - Mobile & Web Developer
 - 📚 React-native 
 - 📚 Node Js express
-- 📚 Python-django
 - 📚 REST API
 - Currently learning Golang
 
