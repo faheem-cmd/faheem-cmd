@@ -9,11 +9,8 @@
 <a href="https://www.instagram.com/fahe_07/">
   <img align="left" alt="faheem | YouTube" width="24px" src="/assets/instagram.svg"/>
 </a>
-<a href="https://www.facebook.com/faheem.kattekaden/">
-  <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/facebook.svg"/>
-</a>
 <a href="https://www.iamfaheem.tk">
-  <img align="left" alt="Abdul Aziz Ahwan's Discord" width="24px" src="/assets/discord.svg"/>
+  <img align="left" alt="faheem" width="24px" src="/assets/discord.svg"/>
 </a>
 
 <br />
