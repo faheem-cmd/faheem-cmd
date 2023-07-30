@@ -7,7 +7,7 @@
 ### Hello  🌍 I'm Muhammed Faheem k 👋
 
 <a href="https://www.instagram.com/fahe_07/">
-  <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/instagram.svg"/>
+  <img align="left" alt="faheem | YouTube" width="24px" src="/assets/instagram.svg"/>
 </a>
 <a href="https://www.facebook.com/faheem.kattekaden/">
   <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/facebook.svg"/>
