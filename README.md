@@ -1,5 +1,6 @@
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/faheem-cmd/badges)
 ![Profile views](https://gpvc.arturio.dev/faheem-cmd)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
 
