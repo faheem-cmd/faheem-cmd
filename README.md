@@ -10,14 +10,10 @@
 <a href="https://www.instagram.com/fahe_07/">
   <img align="left" alt="faheem | YouTube" width="24px" src="/assets/instagram.svg"/>
 </a>
-<a href="https://www.iamfaheem.tk">
-  <img align="left" alt="faheem" width="24px" src="/assets/discord.svg"/>
-</a>
-
 <br />
 <br />
 
- Software Developer from India <img width="21px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" style="margin-left:4px"/>
+ Software Developer
  
 - 📚 React-native 
 - 📚 Node Js express
