@@ -1,12 +1,3 @@
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/faheem-cmd/badges)
-![Profile views](https://gpvc.arturio.dev/faheem-cmd)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-
-
-
-
-### Hello  🌍 I'm Muhammed Faheem k 👋
-
 <a href="https://app.daily.dev/muhammedfaheem"><img src="https://api.daily.dev/devcards/e934b430ad4742eca3aa67e0d74b83da.png?r=9dp" width="400" alt="Muhammed Faheem's Dev Card"/></a>
 <a href="https://www.instagram.com/fahe_07/">
   <img align="left" alt="faheem | YouTube" width="24px" src="/assets/instagram.svg"/>
