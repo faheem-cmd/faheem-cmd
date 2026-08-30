@@ -9,7 +9,7 @@ Always learning. Always building.
 ### Languages & Tools
 
 <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/amazon-web-services/amazon-web-services.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code> <code><img height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-
+<br/>
 <a href="https://app.daily.dev/muhammedfaheem"><img src="https://api.daily.dev/devcards/e934b430ad4742eca3aa67e0d74b83da.png?r=9dp" width="400" alt="Muhammed Faheem's Dev Card"/></a>
 
 <br/>
